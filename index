@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>스위치온 다이어트 4주 달력</title>
+  <style>
+    body { font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif; padding: 20px; background-color: #f8f9fa; }
+    h2 { text-align: center; color: #2c3e50; margin-bottom: 20px; }
+    table { width: 100%; border-collapse: collapse; background: #fff; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 8px; overflow: hidden; }
+    th { background-color: #34495e; color: white; padding: 12px 6px; font-size: 14px; }
+    td { border: 1px solid #e9ecef; vertical-align: top; padding: 8px 6px; font-size: 11px; height: 110px; width: 14.28%; }
+    .day-title { font-weight: bold; font-size: 12px; margin-bottom: 6px; border-bottom: 1px solid #eee; padding-bottom: 4px; }
+    .fasting { color: #e74c3c; font-weight: bold; }
+    ul { margin: 0; padding-left: 12px; }
+    li { margin-bottom: 2px; }
+  </style>
+</head>
+<body>
+
+  <h2>🔥 스위치온 다이어트 4주 식단 달력</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th style="color: #ff6b6b;">일</th>
+        <th>월</th>
+        <th>화</th>
+        <th>수</th>
+        <th>목</th>
+        <th>금</th>
+        <th style="color: #4d96ff;">토</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td></td>
+        <td></td>
+        <td>
+          <div class="day-title">8/25 (1일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 쉐이크</li>
+            <li>간: 쉐이크</li>
+            <li>저: 쉐이크</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">26 (2일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 쉐이크</li>
+            <li>간: 쉐이크</li>
+            <li>저: 쉐이크</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">27 (3일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 쉐이크</li>
+            <li>간: 쉐이크</li>
+            <li>저: 쉐이크</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">28 (4일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 현미밥1/2, 계란말이</li>
+            <li>간: 쉐이크</li>
+            <li>저: 쉐이크</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">29 (5일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 현미밥1/2, 닭가슴살</li>
+            <li>간: 쉐이크</li>
+            <li>저: 쉐이크</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="day-title">30 (6일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 현미밥1/2, 오징어숙회</li>
+            <li>간: 쉐이크</li>
+            <li>저: 쉐이크</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">31 (7일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 현미밥1/2, 수육</li>
+            <li>간: 쉐이크</li>
+            <li>저: 쉐이크</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">9/1 (8일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 잡곡밥1/2, 고등어</li>
+            <li>간: 쉐이크</li>
+            <li>저: 닭가슴살 샐러드</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">2 (9일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 현미밥1/2, 두부조림</li>
+            <li>간: 쉐이크</li>
+            <li>저: 돼지 샤브샤브</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">3 (10일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 현미밥1/2, 소고기</li>
+            <li>간: 쉐이크</li>
+            <li>저: 연어 샐러드, 계란</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title fasting">4 (11일차) 🚨 24H 단식</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: <span class="fasting">공복</span></li>
+            <li>저: 소고기구이, 쌈</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">5 (12일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 잡곡밥1/2, 해물볶음</li>
+            <li>간: 쉐이크</li>
+            <li>저: 두부버섯전골</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="day-title">6 (13일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 현미밥1/2, 닭안심</li>
+            <li>간: 쉐이크</li>
+            <li>저: 계란찜, 견과류</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">7 (14일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 현미밥1/2, 생선회</li>
+            <li>간: 쉐이크</li>
+            <li>저: 족발(살코기)</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">8 (15일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 현미밥1/2, 삼치구이</li>
+            <li>간: 쉐이크</li>
+            <li>저: 닭가슴살 야채볶음</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title fasting">9 (16일차) 🚨 24H 단식</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: <span class="fasting">공복</span></li>
+            <li>저: 소고기 샤브샤브</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">10 (17일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 현미밥1/2, 두부스테이크</li>
+            <li>간: 쉐이크</li>
+            <li>저: 오징어숙회</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">11 (18일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 잡곡밥1/2, 닭갈비</li>
+            <li>간: 쉐이크</li>
+            <li>저: 훈제오리, 양배추</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title fasting">12 (19일차) 🚨 24H 단식</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: <span class="fasting">공복</span></li>
+            <li>저: 돼지수육, 보쌈</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="day-title">13 (20일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 단호박, 닭가슴살</li>
+            <li>간: 쉐이크</li>
+            <li>저: 계란 스크램블</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">14 (21일차)</div>
+          <ul>
+            <li>아: 쉐이크</li>
+            <li>점: 현미밥1/2, 소불고기</li>
+            <li>간: 쉐이크</li>
+            <li>저: 광어회, 미역</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title fasting">15 (22일차) 🚨 24H 단식</div>
+          <ul>
+            <li>아: 사과1 + 쉐이크</li>
+            <li>점: <span class="fasting">공복</span></li>
+            <li>저: 현미밥1/3, 닭안심</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">16 (23일차)</div>
+          <ul>
+            <li>아: 사과1 + 쉐이크</li>
+            <li>점: 잡곡밥1/2, 생선구이</li>
+            <li>간: 쉐이크</li>
+            <li>저: 단호박, 소고기</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title fasting">17 (24일차) 🚨 24H 단식</div>
+          <ul>
+            <li>아: 바나나1 + 쉐이크</li>
+            <li>점: <span class="fasting">공복</span></li>
+            <li>저: 현미밥1/3, 해물볶음</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">18 (25일차)</div>
+          <ul>
+            <li>아: 블루베리 + 쉐이크</li>
+            <li>점: 현미밥1/2, 두부덮밥</li>
+            <li>간: 쉐이크</li>
+            <li>저: 잡곡밥1/3, 닭가슴살</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title fasting">19 (26일차) 🚨 24H 단식</div>
+          <ul>
+            <li>아: 키위1 + 쉐이크</li>
+            <li>점: <span class="fasting">공복</span></li>
+            <li>저: 현미밥1/3, 수육</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="day-title">20 (27일차)</div>
+          <ul>
+            <li>아: 사과1 + 쉐이크</li>
+            <li>점: 현미밥1/2, 소고기구이</li>
+            <li>간: 쉐이크</li>
+            <li>저: 단호박, 연어</li>
+          </ul>
+        </td>
+        <td>
+          <div class="day-title">21 (28일차)</div>
+          <ul>
+            <li>아: 바나나1 + 쉐이크</li>
+            <li>점: 잡곡밥1/2, 계란말이</li>
+            <li>간: 쉐이크</li>
+            <li>저: 현미밥1/3, 닭가슴살</li>
+          </ul>
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
